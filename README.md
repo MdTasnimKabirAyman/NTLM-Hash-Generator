@@ -1,3 +1,3 @@
 # NTLM-Hash-Generator
 
-This python script converts string into NTLM hashes.
+This python script can convert strings into NTLM hashes.
